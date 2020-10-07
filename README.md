@@ -5,10 +5,10 @@
      src="https://github.com/Perezented/Perezented/raw/master/README.gif" />
     <img 
     alt='Perezented's Top Langs'
-    width="49%"
+    width="45%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perezented&layout=compact" />
     <img
-    width="49%"
+    width="54%"
     alt='Perezented stats'
     src="https://github-readme-stats.vercel.app/api?username=Perezented&count_private=true&show_icons=true" />
 </div>
