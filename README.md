@@ -11,4 +11,8 @@
     width="54%"
     alt='Perezented stats'
     src="https://github-readme-stats.vercel.app/api?username=Perezented&count_private=true&show_icons=true" />
+    <img
+      width="100%"
+      alt="Perezented's wakatime stats"
+      src="https://github-readme-stats.vercel.app/api/wakatime?username=Perezented"
 </div>
