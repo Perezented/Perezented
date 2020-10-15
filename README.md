@@ -5,7 +5,6 @@
      src="https://github.com/Perezented/Perezented/raw/master/README.gif" />
     <img 
     alt='Perezented's Top Langs'
-    align="left"
     width="45%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perezented&layout=compact" />
     <img
