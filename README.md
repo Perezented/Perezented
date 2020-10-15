@@ -10,6 +10,5 @@
     <img
     width="54%"
     alt='Perezented stats'
-    align="right"
     src="https://github-readme-stats.vercel.app/api?username=Perezented&count_private=true&show_icons=true" />
 </div>
