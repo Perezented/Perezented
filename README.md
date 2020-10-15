@@ -5,14 +5,12 @@
      src="https://github.com/Perezented/Perezented/raw/master/README.gif" />
     <img 
     alt='Perezented's Top Langs'
+    align="left"
     width="45%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Perezented&layout=compact" />
     <img
     width="54%"
     alt='Perezented stats'
+    align="right"
     src="https://github-readme-stats.vercel.app/api?username=Perezented&count_private=true&show_icons=true" />
-    <img
-      width="100%"
-      alt="Perezented's wakatime stats"
-      src="https://github-readme-stats.vercel.app/api/wakatime?username=Perezented"
 </div>
